@@ -1,0 +1,92 @@
+[
+  {
+    "nome": "Corinthians", 
+    "descricao": "O Sport Club Corinthians Paulista, conhecido como Corinthians, é um clube de futebol brasileiro sediado em São Paulo. Fundado em 1º de setembro de 1910, o Corinthians é um dos clubes mais populares e bem-sucedidos do Brasil, com uma rica história de conquistas nacionais e internacionais.",
+    "ano": "1º de setembro de 1910",
+    "link": "https://www.corinthians.com.br/"
+  },
+  {
+    "nome": "Flamengo", 
+    "descricao": "O Clube de Regatas do Flamengo, comumente referido como Flamengo, é um clube poliesportivo brasileiro com sede no Rio de Janeiro. Fundado em 15 de novembro de 1895, é um dos clubes mais populares do mundo, conhecido por sua imensa torcida e grandes títulos no futebol, incluindo várias Libertadores e Campeonatos Brasileiros.",
+    "ano": "15 de novembro de 1895",
+    "link": "https://www.flamengo.com.br/"
+  },
+  {
+    "nome": "São Paulo", 
+    "descricao": "O São Paulo Futebol Clube é um clube poliesportivo brasileiro, sediado em São Paulo. Fundado em 25 de janeiro de 1930, é o único clube brasileiro **tricampeão mundial** de clubes reconhecido pela FIFA e um dos mais vitoriosos do país e do continente.",
+    "ano": "25 de janeiro de 1930",
+    "link": "https://www.saopaulofc.net/"
+  },
+  {
+    "nome": "Palmeiras", 
+    "descricao": "A Sociedade Esportiva Palmeiras, conhecida como Palmeiras, é um clube poliesportivo brasileiro da cidade de São Paulo. Fundado em 26 de agosto de 1914, é um dos clubes mais bem-sucedidos no futebol nacional, com destaque em conquistas da Copa Libertadores da América e Campeonatos Brasileiros.",
+    "ano": "26 de agosto de 1914",
+    "link": "https://www.palmeiras.com.br/"
+  },
+  {
+    "nome": "Santos", 
+    "descricao": "O Santos Futebol Clube, sediado em Santos, São Paulo, é um dos mais tradicionais e vitoriosos do futebol brasileiro e mundial. Fundado em 14 de abril de 1912, é o time em que o 'Rei' Pelé jogou a maior parte de sua carreira, e é conhecido por ter revelado inúmeros talentos.",
+    "ano": "14 de abril de 1912",
+    "link": "https://www.santosfc.com.br/"
+  },
+  {
+    "nome": "Grêmio", 
+    "descricao": "O Grêmio Foot-Ball Porto Alegrense, de Porto Alegre, Rio Grande do Sul, é um dos maiores e mais tradicionais clubes do Brasil. Fundado em 15 de setembro de 1903, é conhecido por sua garra e por ser um dos maiores campeões da Copa Libertadores da América e da Copa do Brasil.",
+    "ano": "15 de setembro de 1903",
+    "link": "https://gremio.net/"
+  },
+  {
+    "nome": "Internacional", 
+    "descricao": "O Sport Club Internacional, também sediado em Porto Alegre, é um dos clubes de maior sucesso e popularidade no Brasil. Fundado em 4 de abril de 1909, o 'Colorado' é conhecido por ser o primeiro time brasileiro a conquistar a Copa Libertadores da América e o Mundial de Clubes FIFA no século XXI.",
+    "ano": "4 de abril de 1909",
+    "link": "https://internacional.com.br/"
+  },
+  {
+    "nome": "Atlético-MG", 
+    "descricao": "O Clube Atlético Mineiro, de Belo Horizonte, é um dos clubes de futebol mais antigos do Brasil, fundado em 25 de março de 1908. Conhecido como 'Galo', é famoso por sua torcida apaixonada e por ser campeão da Copa Libertadores e do Campeonato Brasileiro.",
+    "ano": "25 de março de 1908",
+    "link": "https://atletico.com.br/"
+  },
+  {
+    "nome": "Cruzeiro", 
+    "descricao": "O Cruzeiro Esporte Clube, também sediado em Belo Horizonte, Minas Gerais, foi fundado em 2 de janeiro de 1921. É o único clube brasileiro **tetracampeão** da Copa do Brasil e possui uma história vitoriosa que inclui títulos da Copa Libertadores da América e do Campeonato Brasileiro.",
+    "ano": "2 de janeiro de 1921",
+    "link": "https://www.cruzeiro.com.br/"
+  },
+  {
+    "nome": "Vasco da Gama", 
+    "descricao": "O Club de Regatas Vasco da Gama, do Rio de Janeiro, foi fundado em 21 de agosto de 1898. Um dos clubes mais antigos do Brasil, é um dos poucos a ter conquistado a Copa Libertadores da América e o Campeonato Sul-Americano de Campeões, precursor da Libertadores.",
+    "ano": "21 de agosto de 1898",
+    "link": "https://vasco.com.br/"
+  },
+  {
+    "nome": "Real Madrid",
+    "descricao": "O Real Madrid Club de Fútbol, sediado em Madrid, Espanha, é amplamente considerado o clube mais vitorioso da história do futebol mundial. Fundado em 6 de março de 1902, detém o recorde de títulos da Liga dos Campeões da UEFA.",
+    "ano": "6 de março de 1902",
+    "link": "https://www.realmadrid.com/"
+  },
+  {
+    "nome": "Barcelona",
+    "descricao": "O Futbol Club Barcelona, conhecido como Barça, é um clube espanhol de Barcelona, Catalunha. Fundado em 29 de novembro de 1899, o clube é famoso por seu estilo de jogo 'tiki-taka' e por sua rivalidade histórica com o Real Madrid (El Clásico).",
+    "ano": "29 de novembro de 1899",
+    "link": "https://www.fcbarcelona.com/"
+  },
+  {
+    "nome": "Manchester United",
+    "descricao": "O Manchester United Football Club, de Manchester, Inglaterra, é um dos clubes mais ricos e populares do mundo. Fundado em 1878 (como Newton Heath), é um gigante do futebol inglês e europeu, conhecido como 'Os Red Devils'.",
+    "ano": "1878 (como Newton Heath)",
+    "link": "https://www.manutd.com/"
+  },
+  {
+    "nome": "Bayern de Munique",
+    "descricao": "O Fußball-Club Bayern München e.V., sediado em Munique, Alemanha, é o clube mais bem-sucedido da história do futebol alemão. Fundado em 27 de fevereiro de 1900, domina a Bundesliga e possui múltiplos títulos da Liga dos Campeões da UEFA.",
+    "ano": "27 de fevereiro de 1900",
+    "link": "https://fcbayern.com/"
+  },
+  {
+    "nome": "Juventus",
+    "descricao": "A Juventus Football Club, de Turim, Itália, é o clube com o maior número de títulos do Campeonato Italiano (Serie A). Fundada em 1º de novembro de 1897, é conhecida como 'A Velha Senhora' e é uma das grandes potências do futebol europeu.",
+    "ano": "1º de novembro de 1897",
+    "link": "https://www.juventus.com/"
+  }
+]
