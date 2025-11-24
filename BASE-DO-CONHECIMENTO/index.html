@@ -4,15 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>Base de conhecimento</title>
+    <title>Times do Mundo</title>
 </head>
 <body>
     <header>
-        <h1>Base de conhecimento</h1>
+        <h1>Times do mundo</h1>
         <div>
-            <input type="text" placeholder="Digite um time de futebol">
-            <button id="botao-busca" onclick="iniciarBusca()">Buscar</button>
+            <input type="text" id="busca" placeholder="Digite um time de futebol">
+            <button id="botao-busca">Buscar</button>
         </div>
+        <p>
+            Digite o nome de um time de futebol no campo de busca e clique no botão "Buscar" para ver informações sobre o time. <br> Se o time estiver na base de conhecimento, um cartão com detalhes será exibido abaixo.
+        </p>
     </header>
     <main>
         <section class="card-container">

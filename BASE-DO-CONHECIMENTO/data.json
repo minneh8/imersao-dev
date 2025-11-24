@@ -88,5 +88,101 @@
     "descricao": "A Juventus Football Club, de Turim, Itália, é o clube com o maior número de títulos do Campeonato Italiano (Serie A). Fundada em 1º de novembro de 1897, é conhecida como 'A Velha Senhora' e é uma das grandes potências do futebol europeu.",
     "ano": "1º de novembro de 1897",
     "link": "https://www.juventus.com/"
+  },
+  {
+    "nome": "Fluminense",
+    "descricao": "O Fluminense Football Club, do Rio de Janeiro, é um dos quatro grandes clubes do estado. Fundado em 21 de julho de 1902, é conhecido por sua forte base de formação de jogadores (Xerém) e por ser o atual campeão da Copa Libertadores da América.",
+    "ano": "21 de julho de 1902",
+    "link": "https://www.fluminense.com.br/"
+  },
+  {
+    "nome": "Botafogo",
+    "descricao": "O Botafogo de Futebol e Regatas é um clube poliesportivo brasileiro, com sede no Rio de Janeiro. Fundado em 12 de agosto de 1904, é um dos clubes mais tradicionais do Brasil, conhecido pela estrela solitária em seu escudo e por ter cedido inúmeros jogadores à Seleção Brasileira.",
+    "ano": "12 de agosto de 1904",
+    "link": "https://www.botafogo.com.br/"
+  },
+  {
+    "nome": "Liverpool",
+    "descricao": "O Liverpool Football Club, da cidade de Liverpool, Inglaterra, é um dos clubes mais vitoriosos do futebol inglês e europeu. Fundado em 3 de junho de 1892, é famoso por seu hino 'You'll Never Walk Alone' e por sua apaixonada torcida.",
+    "ano": "3 de junho de 1892",
+    "link": "https://www.liverpoolfc.com/"
+  },
+  {
+    "nome": "AC Milan",
+    "descricao": "A Associazione Calcio Milan, conhecida como AC Milan, é um clube de futebol italiano de Milão. Fundado em 16 de dezembro de 1899, é um dos clubes com mais títulos internacionais do mundo, incluindo sete conquistas da Liga dos Campeões da UEFA.",
+    "ano": "16 de dezembro de 1899",
+    "link": "https://www.acmilan.com/"
+  },
+  {
+    "nome": "Boca Juniors",
+    "descricao": "O Club Atlético Boca Juniors, de Buenos Aires, Argentina, é um dos clubes mais populares e bem-sucedidos da América do Sul. Fundado em 3 de abril de 1905, é conhecido por sua torcida fervorosa e pelo estádio La Bombonera.",
+    "ano": "3 de abril de 1905",
+    "link": "https://www.bocajuniors.com.ar/"
+  },
+  {
+    "nome": "River Plate",
+    "descricao": "O Club Atlético River Plate, também de Buenos Aires, é o maior rival do Boca Juniors e um dos maiores clubes da Argentina. Fundado em 25 de maio de 1901, possui o maior número de títulos do campeonato argentino e uma rica história de conquistas.",
+    "ano": "25 de maio de 1901",
+    "link": "https://www.cariverplate.com.ar/"
+  },
+  {
+    "nome": "Paris Saint-Germain",
+    "descricao": "O Paris Saint-Germain Football Club, conhecido como PSG, é um clube de futebol profissional sediado em Paris, França. Fundado em 12 de agosto de 1970, tornou-se uma força dominante no futebol francês e europeu nas últimas décadas.",
+    "ano": "12 de agosto de 1970",
+    "link": "https://www.psg.fr/"
+  },
+  {
+    "nome": "Chelsea",
+    "descricao": "O Chelsea Football Club é um clube de futebol inglês, sediado em Londres. Fundado em 10 de março de 1905, é um dos clubes mais bem-sucedidos da Inglaterra, com múltiplos títulos da Premier League e da Liga dos Campeões da UEFA.",
+    "ano": "10 de março de 1905",
+    "link": "https://www.chelseafc.com/"
+  },
+  {
+    "nome": "Athletico-PR",
+    "descricao": "O Club Athletico Paranaense, de Curitiba, é conhecido por sua inovação e infraestrutura moderna, incluindo a Ligga Arena, um dos primeiros estádios com teto retrátil do Brasil. Fundado em 26 de março de 1924, o 'Furacão' tem conquistado títulos importantes, como a Copa Sul-Americana e o Campeonato Brasileiro.",
+    "ano": "26 de março de 1924",
+    "link": "https://www.athletico.com.br/"
+  },
+  {
+    "nome": "Bahia",
+    "descricao": "O Esporte Clube Bahia, de Salvador, é um dos clubes mais tradicionais do Nordeste e do Brasil. Fundado em 1º de janeiro de 1931, foi o primeiro campeão brasileiro em 1959 e conquistou o bicampeonato em 1988. É conhecido por sua torcida apaixonada e por suas ações afirmativas.",
+    "ano": "1º de janeiro de 1931",
+    "link": "https://www.esporteclubebahia.com.br/"
+  },
+  {
+    "nome": "Cuiabá",
+    "descricao": "O Cuiabá Esporte Clube é um clube de futebol de Cuiabá, Mato Grosso. Fundado em 12 de dezembro de 2001, é um dos clubes mais novos a competir na Série A do Brasileirão, tendo uma ascensão rápida no cenário nacional e representando o estado na elite do futebol.",
+    "ano": "12 de dezembro de 2001",
+    "link": "https://cuiabaesporteclube.com.br/"
+  },
+  {
+    "nome": "Fortaleza",
+    "descricao": "O Fortaleza Esporte Clube, de Fortaleza, Ceará, foi fundado em 18 de outubro de 1918. Conhecido como 'Leão do Pici', o clube tem se destacado nos últimos anos com boas campanhas na Série A e participações em competições sul-americanas, incluindo uma final de Copa Sul-Americana.",
+    "ano": "18 de outubro de 1918",
+    "link": "https://fortaleza1918.com.br/"
+  },
+  {
+    "nome": "Red Bull Bragantino",
+    "descricao": "O Red Bull Bragantino, de Bragança Paulista, São Paulo, é resultado da parceria entre o Clube Atlético Bragantino e a Red Bull. Fundado originalmente em 8 de janeiro de 1928, o clube passou por uma transformação em 2019, tornando-se uma força emergente no futebol brasileiro.",
+    "ano": "8 de janeiro de 1928",
+    "link": "https://www.redbullbragantino.com.br/"
+  },
+  {
+    "nome": "Criciúma",
+    "descricao": "O Criciúma Esporte Clube, da cidade de Criciúma em Santa Catarina, foi fundado em 13 de maio de 1947. O 'Tigre' é um dos clubes mais tradicionais do estado, tendo como principal conquista a Copa do Brasil de 1991, de forma invicta.",
+    "ano": "13 de maio de 1947",
+    "link": "https://www.criciuma.com.br/"
+  },
+  {
+    "nome": "Juventude",
+    "descricao": "O Esporte Clube Juventude, de Caxias do Sul, Rio Grande do Sul, foi fundado em 29 de junho de 1913. O clube, conhecido como 'Papo', é um dos mais importantes do interior gaúcho e tem como maior título a Copa do Brasil de 1999.",
+    "ano": "29 de junho de 1913",
+    "link": "https://juventude.com.br/"
+  },
+  {
+    "nome": "Atlético-GO",
+    "descricao": "O Atlético Clube Goianiense, de Goiânia, é um dos clubes mais tradicionais de Goiás. Fundado em 2 de abril de 1937, o 'Dragão' foi o primeiro clube do estado a conquistar um título nacional, o Campeonato Brasileiro da Série C em 1990, e também possui títulos da Série B.",
+    "ano": "2 de abril de 1937",
+    "link": "https://atleticogoianiense.com.br/"
   }
 ]

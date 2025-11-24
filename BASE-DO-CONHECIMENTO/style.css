@@ -8,7 +8,7 @@
     --primary-color: #8ab4f8; /* Cor primária (azul claro) */
     --secondary-color: #e8eaed; /* Cor secundária (cinza claro) */
     --tertiary-color: #9aa0a6; /* Cor terciária (cinza médio) */
-    --bg-color: #202124; /* Cor de fundo (cinza escuro) */
+    --bg-color: #000d33; /* Cor de fundo (cinza escuro) */
 }
 
 body {
@@ -16,26 +16,41 @@ body {
     background: var(--bg-color); /* Define a cor de fundo usando uma variável */
     color: var(--secondary-color); /* Define a cor do texto padrão usando uma variável */
     font-family: "Quicksand", sans-serif; /* Define a família da fonte */
+    overflow-x: hidden;
+    overflow-y: hidden;
+    scrollbar-width: thin;
+    scrollbar-color: var(--tertiary-color) var(--bg-color); /* Para Firefox: cor do polegar e da trilha */
 }
 
 header {
     padding: 2rem 1rem; /* Espaçamento interno (2rem em cima/baixo, 1rem nos lados) */
     display: flex; /* Habilita o layout flexbox */
-    align-items: center; /* Alinha os itens verticalmente ao centro */
-    justify-content: space-around; /* Distribui os itens com espaço ao redor */
+    flex-direction: column; /* Organiza os itens em coluna */
+    align-items: center; /* Centraliza os itens horizontalmente */
     position: sticky; /* Mantém o cabeçalho fixo no topo ao rolar a página */
     top: 0; /* Posição do topo quando sticky */
-    background: var(--bg-color); /* Cor de fundo do cabeçalho */
+    background: var(--bg-color); /* Cor de fundo do cabeçalho */ 
     z-index: 10; /* Define a ordem de empilhamento para ficar sobre outros elementos */
     border-bottom: 1px solid var(--bg-color); /* Adiciona uma borda inferior */
     gap: 1rem; /* Espaçamento entre os elementos flex */
 }
 
 header h1 {
-    font-size: 1.5rem; /* Tamanho da fonte */
+    font-size: 2.5rem; /* Tamanho da fonte aumentado para maior destaque */
     margin: 0; /* Remove a margem padrão */
-    font-weight: 500; /* Peso da fonte (médio) */
+    font-weight: 700; /* Fonte mais espessa (bold) */
     white-space: nowrap; /* Impede a quebra de linha do texto */
+    color: var(--primary-color); /* Usa a cor primária para chamar atenção */
+    text-shadow: 0 0 8px rgba(138, 180, 248, 0.4); /* Adiciona um brilho sutil ao redor do texto */
+}
+
+header p {
+    font-size:1rem; /* Tamanho da fonte */
+    font-weight: 300; /* Peso da fonte (leve) */
+    text-align: center; /* Centraliza o texto */
+    margin: 0; /* Remove a margem padrão */
+    margin-top: 0.5rem; /* Adiciona uma margem no topo */
+    
 }
 
 div input {
@@ -89,11 +104,13 @@ div input:focus {
 }
 
 main {
-    overflow: hidden; /* Adiciona uma barra de rolagem vertical se o conteúdo exceder a altura */
+    overflow-x: hidden;
+    overflow-y: scroll; /* Adiciona uma barra de rolagem vertical se o conteúdo exceder a altura */
     max-width: 80rem; /* Largura máxima do conteúdo principal */
     margin: 0 auto; /* Centraliza o conteúdo principal horizontalmente */
     margin-top: 2rem; /* Margem no topo */
-    height: calc(100vh - 10rem - 4rem); /* Calcula a altura para preencher o espaço restante da tela */
+    height: calc(100vh - 19rem - 4rem) /* Calcula a altura para preencher o espaço restante da tela */ 
+    
 }
 
 article {
@@ -237,4 +254,20 @@ article a:hover {
     button { /* Estilos para o botão em telas muito pequenas */
         margin-top: 1rem; /* Adiciona margem no topo */
     }
+}
+
+/* Estilização da barra de rolagem para navegadores Webkit (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+    width: 12px; /* Largura da barra de rolagem vertical */
+    height: 12px; /* Altura da barra de rolagem horizontal */
+}
+
+::-webkit-scrollbar-track {
+    background: var(--bg-color); /* Cor da área da trilha */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--tertiary-color); /* Cor do polegar da barra de rolagem */
+    border-radius: 20px; /* Bordas arredondadas */
+    border: 3px solid var(--bg-color); /* Cria um espaçamento ao redor do polegar */
 }
